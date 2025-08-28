@@ -50,10 +50,11 @@ pip install -r requirements.txt
 ##💡 Usage
 
 Example: Running activity prediction
-
+```bash
 
 📓 For detailed workflows, analysis pipelines, and additional examples, please refer to the notebook/ folder.
 
+```
 ##📜 Citation
 
 If you use this work, please cite:
