@@ -42,7 +42,7 @@ requirements.txt # Python dependencies
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/<YourUsername>/Unlocking-Enzyme-Discovery.git
+git clone https://github.com/HLbiosynlab/Unlocking-Enzyme-Discovery.git
 cd Unlocking-Enzyme-Discovery
 pip install -r requirements.txt
 
