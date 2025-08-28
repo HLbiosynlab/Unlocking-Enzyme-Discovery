@@ -16,7 +16,7 @@ This project presents a **robust, generalizable framework** that integrates phyl
 ---
 
 ### 🔄 Workflow
-![Workflow of the Unlocking-Enzyme-Discovery Framework](image/Workflow of the Unlocking-Enzyme-Discovery Framework.png)
+![Workflow of the Unlocking-Enzyme-Discovery Framework](image/Workflow.png)
 
 ### 🌳 Evolutionary Analysis
 ![Evolutionary_Phylogenetic_Tree](image/Evolutionary_Phylogenetic_Tree.png)
