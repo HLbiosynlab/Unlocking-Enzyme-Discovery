@@ -34,19 +34,27 @@ models/ # Trained models and saved weights
 notebook/ # Jupyter Notebooks for training, analysis, and visualization
 requirements.txt # Python dependencies
 
+data/ # Raw datasets and processed features
+models/ # Trained models and saved weights
+notebook/ # Jupyter Notebooks for training, analysis, and visualization
+requirements.txt # Python dependencies
+
+
 ## 🚀 Installation
 ```bash
 git clone https://github.com/<YourUsername>/Unlocking-Enzyme-Discovery.git
 cd Unlocking-Enzyme-Discovery
 pip install -r requirements.txt
 
-## 💡 Usage
+##💡 Usage
 
 Example: Running activity prediction
 
-python scripts/predict_activity.py --input data/example_sequences.fasta --output results/predictions.csv
 
-## 📜 Citation
+📓 For detailed workflows, analysis pipelines, and additional examples, please refer to the notebook/ folder.
+
+##📜 Citation
+
 If you use this work, please cite:
 
-<Authors>. Unlocking Enzyme Discovery: An Integrated Pipeline for Large-Scale Functional Mining. <Year>.
+<Authors>. Unlocking Enzyme Discovery: An Integrated Pipeline for Large-Scale Functional Mining. <Yea
