@@ -44,7 +44,8 @@ requirements.txt # Python dependencies
 ```bash
 git clone https://github.com/HLbiosynlab/Unlocking-Enzyme-Discovery.git
 cd Unlocking-Enzyme-Discovery
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ##💡 Usage
 
