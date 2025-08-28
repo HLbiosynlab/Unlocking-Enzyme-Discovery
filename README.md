@@ -22,7 +22,7 @@ This project presents a **robust, generalizable framework** that integrates phyl
 ![Evolutionary_Phylogenetic_Tree](image/Evolutionary_Phylogenetic_Tree.png)
 
 ### 🧠 Model Structure
-![Model Architecture](image/Model_Architecture.png.png)
+![Model Architecture](image/Model_Architecture.png)
 
 ---
 
