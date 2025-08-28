@@ -26,17 +26,27 @@ This project presents a **robust, generalizable framework** that integrates phyl
 4. **Multi-level residue–atom contact rescoring**  
    - Eliminates false positives from docking and enriches high-value hits
 
-## 🧪 Application to the r-BOX Pathway
-- Target enzymes: **FadB**, **BktB**, **Ter**, and **YdiI**
-- Discovered numerous previously undocumented homologs
-- Achieved **R² = 0.68** in activity prediction
-- Reduced RMSE on high-value targets by **11%** compared to prior SOTA (*UniKP*)
-- Improved early enrichment (**EF1%**) by **16×**
-
-## 📈 Experimental Validation
-- **FadB** engineering increased titers from:
-  - 0.65 g/L (shake flasks) → 1.7 g/L  
-  - Up to 10.2 g/L in a fermenter
 
 ## 📂 Repository Structure
 
+data/ # Raw datasets and processed features
+models/ # Trained models and saved weights
+notebook/ # Jupyter Notebooks for training, analysis, and visualization
+requirements.txt # Python dependencies
+
+## 🚀 Installation
+```bash
+git clone https://github.com/<YourUsername>/Unlocking-Enzyme-Discovery.git
+cd Unlocking-Enzyme-Discovery
+pip install -r requirements.txt
+
+## 💡 Usage
+
+Example: Running activity prediction
+
+python scripts/predict_activity.py --input data/example_sequences.fasta --output results/predictions.csv
+
+## 📜 Citation
+If you use this work, please cite:
+
+<Authors>. Unlocking Enzyme Discovery: An Integrated Pipeline for Large-Scale Functional Mining. <Year>.
