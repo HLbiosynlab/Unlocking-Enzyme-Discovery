@@ -4,6 +4,7 @@
 ![pull-requests](https://img.shields.io/github/issues-pr/HLbiosynlab/Unlocking-Enzyme-Discovery)
 ![license](https://img.shields.io/github/license/HLbiosynlab/Unlocking-Enzyme-Discovery)
 ![stars](https://img.shields.io/github/stars/HLbiosynlab/Unlocking-Enzyme-Discovery?style=social)
+
 # Unlocking-Enzyme-Discovery
 
 An integrated machine learning and bioinformatics pipeline for discovering scarce, high-value enzymes from vast, under-annotated genomic repositories.
@@ -12,20 +13,32 @@ An integrated machine learning and bioinformatics pipeline for discovering scarc
 High-throughput sequencing has generated massive genomic datasets, yet the lack of precise annotation severely hampers enzyme discovery.  
 This project presents a **robust, generalizable framework** that integrates phylogenetic analysis, protein language models, and multi-level contact scoring to identify and prioritize functional enzyme variants at scale.
 
+---
+
+### 🔄 Workflow
+![Workflow of the Unlocking-Enzyme-Discovery Framework](Workflow%20of%20the%20Unlocking-Enzyme-Discovery%20Framework.png)
+
+### 🌳 Evolutionary Analysis
+![Evolutionary Phylogenetic Tree](Evolutionary%20Phylogenetic%20Tree.png)
+
+### 🧠 Model Structure
+![Model Architecture](Model%20Architecture.png)
+
+---
+
 ## 🔬 Key Features
 1. **High-resolution, cross-kingdom phylogenetic database**  
-   - Covers bacterial, fungal, plant, and metagenomic sequences
-   - Avoids redundancy while maximizing evolutionary diversity
+   - Covers bacterial, fungal, plant, and metagenomic sequences  
+   - Avoids redundancy while maximizing evolutionary diversity  
 
 2. **Multi-locus phylogenetic mining**  
-   - Detects candidate enzymes via conserved multi-locus signatures
+   - Detects candidate enzymes via conserved multi-locus signatures  
 
 3. **Evolutionary-scale protein language model prediction**  
-   - Predicts enzyme activities directly from protein sequences
+   - Predicts enzyme activities directly from protein sequences  
 
 4. **Multi-level residue–atom contact rescoring**  
-   - Eliminates false positives from docking and enriches high-value hits
-
+   - Eliminates false positives from docking and enriches high-value hits  
 
 ## 📂 Repository Structure
 
