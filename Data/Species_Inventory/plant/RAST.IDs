@@ -1,0 +1,84 @@
+name	Assembly_Accession	Assembly_Name	Organism_Name	Organism_Infraspecific_Names_Breed	Organism_Infraspecific_Names_Strain	Organism_Infraspecific_Names_Cultivar	Organism_Infraspecific_Names_Ecotype	Organism_Infraspecific_Names_Isolate	Organism_Infraspecific_Names_Sex	Annotation_Name	Assembly_Level	Assembly_Release_Date	WGS_project_accession	Assembly_Stats_Number_of_Scaffolds
+Oryza_sativa_Japonica_Group_AGIS1.0	GCA_034140825.1	AGIS1.0	Oryza_sativa_Japonica_Group			Nipponbare		AGIS-1.0			Complete_Genome	2023-12-06		12.0
+Vitis_vinifera_ASM3070453v1	GCA_030704535.1	ASM3070453v1	Vitis_vinifera			Pinot_Noir_40024				Annotation_submitted_by_Agricultural_Genomics_Institute_at_Shenzhen,_Chinese_Academy_of_Agricultural_Sciences	Complete_Genome	2023-08-09		19.0
+Citrus_sinensis_DVS_A1.0	GCA_022201045.1	DVS_A1.0	Citrus_sinensis			Valencia_sweet_orange				Annotation_submitted_by_Clemson_University	Complete_Genome	2022-02-11	JAHMIS01	9.0
+Fragaria_x_ananassa_ASM3437058v1	GCA_034370585.1	ASM3437058v1	Fragaria_x_ananassa			Benihoppe					Complete_Genome	2023-12-14		28.0
+Citrullus_lanatus_ASM3963971v1	GCA_039639715.1	ASM3963971v1	Citrullus_lanatus			PI_254622					Complete_Genome	2024-05-14		11.0
+Ziziphus_jujuba_ASM3175591v1	GCA_031755915.1	ASM3175591v1	Ziziphus_jujuba			Dongzao					Complete_Genome	2023-09-20		12.0
+Oryza_rufipogon_ASM3799707v1	GCA_037997075.1	ASM3799707v1	Oryza_rufipogon			Y476					Complete_Genome	2024-04-07		12.0
+Panicum_miliaceum_ASM3844276v1	GCA_038442765.1	ASM3844276v1	Panicum_miliaceum			AJ8					Complete_Genome	2024-04-23		18.0
+Santalum_album_ASM4387381v1	GCA_043873815.1	ASM4387381v1	Santalum_album					Sal_t2t			Complete_Genome	2024-10-25		10.0
+Jasminum_sambac_ASM1822364v1	GCA_018223645.1	ASM1822364v1	Jasminum_sambac			Hutoumoli					Complete_Genome	2021-05-02		13.0
+Citrullus_colocynthis_ASM3964508v1	GCA_039645085.1	ASM3964508v1	Citrullus_colocynthis			PI_632755					Complete_Genome	2024-05-14		11.0
+Canna_indica_ASM3435926v1	GCA_034359265.1	ASM3435926v1	Canna_indica							Annotation_submitted_by_Guizhou_University	Complete_Genome	2023-12-13		9.0
+Citrullus_amarus_ASM3964477v1	GCA_039644775.1	ASM3964477v1	Citrullus_amarus			PI_296341-FR					Complete_Genome	2024-05-14		11.0
+Citrus_x_aurantium_ASM4647080v1	GCA_046470805.1	ASM4647080v1	Citrus_x_aurantium					ZGSC			Complete_Genome	2025-01-03	JBKFCI01	9.0
+Eleocharis_dulcis_ASM4074193v1	GCA_040741935.1	ASM4074193v1	Eleocharis_dulcis					ONT			Complete_Genome	2024-07-16		111.0
+Citrullus_rehmii_ASM3964492v1	GCA_039644925.1	ASM3964492v1	Citrullus_rehmii			PI_670011					Complete_Genome	2024-05-14		11.0
+Prunus_speciosa_CerSpe_IZO01_v1.0	GCA_041154625.1	CerSpe_IZO01_v1.0	Prunus_speciosa					IZO01		Annotation_submitted_by_National_Institute_of_Genetics	Complete_Genome	2024-06-23		8.0
+Vitis_vinifera_x_Vitis_labrusca_SMT2T_hap1	GCA_041294745.1	SMT2T_hap1	Vitis_vinifera_x_Vitis_labrusca			Shine_Muscat					Complete_Genome	2024-08-15		19.0
+Salix_dunnii_FNU-M-1-Hap-a	GCA_040801865.1	FNU-M-1-Hap-a	Salix_dunnii					FNU-M-1	male		Complete_Genome	2024-07-22		18.0
+Ormosia_purpureiflora_ASM4095594v1	GCA_040955945.1	ASM4095594v1	Ormosia_purpureiflora					EHZ-ZHHD			Complete_Genome	2024-08-01	JASVEM01	8.0
+Citrullus_lanatus_subsp._mucosospermus_ASM3964491v1	GCA_039644915.1	ASM3964491v1	Citrullus_lanatus_subsp._mucosospermus			PI_595203					Complete_Genome	2024-05-14		11.0
+Citrullus_naudinianus_ASM3964503v1	GCA_039645035.1	ASM3964503v1	Citrullus_naudinianus			PI_596694M					Complete_Genome	2024-05-14		11.0
+Vitis_retordii_WGT2T_hap2	GCA_041725165.2	WGT2T_hap2	Vitis_retordii				Shenzhen	mmpt			Complete_Genome	2024-08-16		19.0
+Morus_mongolica_ASM4526945v1	GCA_045269455.1	ASM4526945v1	Morus_mongolica					cswild22			Complete_Genome	2024-11-25	JBIQNV01	14.0
+Capsicum_rhomboideum_ASM3123210v1	GCA_031232105.1	ASM3123210v1	Capsicum_rhomboideum			Andean		CrT2T			Complete_Genome	2023-09-07		13.0
+Citrullus_ecirrhosus_ASM3964493v1	GCA_039644935.1	ASM3964493v1	Citrullus_ecirrhosus			PI_673135					Complete_Genome	2024-05-14		11.0
+Sageretia_thea_ASM4129636v1	GCA_041296365.1	ASM4129636v1	Sageretia_thea					Wando			Complete_Genome	2024-08-16	JBGEWM01	12.0
+Arabidopsis_thaliana_TAIR10.1	GCA_000001735.2	TAIR10.1	Arabidopsis_thaliana				Columbia			Annotation_submitted_by_The_Arabidopsis_Information_Resource_(TAIR)	Chromosome	2018-03-15		5.0
+Solanum_lycopersicum_SLM_r2.1	GCA_036512215.2	SLM_r2.1	Solanum_lycopersicum			Micro-Tom					Chromosome	2024-09-03		12.0
+Marchantia_polymorpha_subsp._ruderalis_MpTak2_v7.1	GCA_037833965.1	MpTak2_v7.1	Marchantia_polymorpha_subsp._ruderalis		Takaragaike-2				female	Annotation_submitted_by_National_Institute_of_Genetics	Chromosome	2024-03-27		9.0
+Citrus_reticulata_PB533_SCSK_HAP2	GCA_036169575.1	PB533_SCSK_HAP2	Citrus_reticulata			mandarin		UCSK1			Chromosome	2024-01-26	JAWHPX01	9.0
+Triticum_turgidum_subsp._durum_Svevo.v1	GCA_900231445.1	Svevo.v1	Triticum_turgidum_subsp._durum							Annotation_submitted_by_ITB-CNR	Chromosome	2019-02-13		14.0
+Avena_sativa_Oat_OT3098_v2	GCA_916181665.1	Oat_OT3098_v2	Avena_sativa								Chromosome	2022-02-02		22.0
+Litchi_chinensis_ASM4269211v1	GCA_042692115.1	ASM4269211v1	Litchi_chinensis					LY-2024a			Chromosome	2024-10-08	JBAOJD01	15.0
+Cenchrus_americanus_AwK_v01	GCA_963924085.1	AwK_v01	Cenchrus_americanus								Chromosome	2024-02-07		8.0
+Secale_cereale_Rye_Lo7_2018_v1p1p1	GCA_902687465.1	Rye_Lo7_2018_v1p1p1	Secale_cereale								Chromosome	2021-01-26		8.0
+Daucus_carota_subsp._sativus_DH1_v3.0	GCA_001625215.2	DH1_v3.0	Daucus_carota_subsp._sativus			DH1				Annotation_submitted_by_USDA_ARS	Chromosome	2023-10-20		9.0
+Citrus_x_limon_C.limon_PB_Hap2	GCA_034663535.1	C.limon_PB_Hap2	Citrus_x_limon					UCLL1			Chromosome	2023-12-28	JAWIMC01	9.0
+Trifolium_repens_UTM_Trep_v1.0	GCA_030408175.1	UTM_Trep_v1.0	Trifolium_repens					ACLI19		Annotation_submitted_by_University_of_Toronto_Mississauga	Chromosome	2023-07-05		16.0
+Ficus_carica_FCA_r2.3	GCA_042847195.1	FCA_r2.3	Ficus_carica			Horaishi					Chromosome	2024-07-05		13.0
+Arabidopsis_arenosa_AARE701a	GCA_905216605.1	AARE701a	Arabidopsis_arenosa							Annotation_submitted_by_MPI_FOR_DEVELOPMENTAL_BIOLOGY	Chromosome	2021-02-13		8.0
+Arabis_alpina_MPIPZ.v5	GCA_900128785.1	MPIPZ.v5	Arabis_alpina								Chromosome	2016-12-31		8.0
+Vigna_mungo_ASM3688567v1	GCA_036885675.1	ASM3688567v1	Vigna_mungo					Urdbean		Annotation_submitted_by_National_Institute_of_Plant_Genome_Research	Chromosome	2024-02-27		11.0
+Quercus_variabilis_ASM3044515v1	GCA_030445155.1	ASM3044515v1	Quercus_variabilis					HB			Chromosome	2023-07-13		12.0
+Capsella_bursa-pastoris_ASM3645264v1	GCA_036452645.1	ASM3645264v1	Capsella_bursa-pastoris					WGS_leaf			Chromosome	2024-02-08		16.0
+Malus_sieversii_Malus_sieversii.altA	GCA_028456135.1	Malus_sieversii.altA	Malus_sieversii					PI613981			Chromosome	2023-02-06	WWNO01	17.0
+Corylus_avellana_CavTom2PMs-1.0	GCA_901000735.2	CavTom2PMs-1.0	Corylus_avellana			Tombul					Chromosome	2020-11-25		11.0
+Castanea_sativa_ASM4071231v1	GCA_040712315.1	ASM4071231v1	Castanea_sativa			Marrone_di_Chiusa_Pesio					Chromosome	2024-07-15		12.0
+Aegilops_umbellulata_ASM3246443v1	GCA_032464435.1	ASM3246443v1	Aegilops_umbellulata			TA1851					Chromosome	2023-10-09		7.0
+Phyllostachys_violascens_ASM4404858v1	GCA_044048585.1	ASM4404858v1	Phyllostachys_violascens			Prevernalis					Chromosome	2024-10-30	JBINAA01	24.0
+Pinus_tabuliformis_CPIR1	GCA_031772625.1	CPIR1	Pinus_tabuliformis			Carrire	Pingquan				Chromosome	2023-11-03	JAVKPI01	17.0
+Malus_hybrid_cultivar_ASM3622044v1	GCA_036220445.1	ASM3622044v1	Malus_hybrid_cultivar			Flame					Chromosome	2024-01-25		17.0
+Murraya_koenigii_AGM_Bkoe_4.1	GCA_025617385.1	AGM_Bkoe_4.1	Murraya_koenigii			Suvasini					Chromosome	2022-10-11	RWJL01	9.0
+Juglans_mandshurica_NFU_Jman_1.0	GCA_022457165.1	NFU_Jman_1.0	Juglans_mandshurica					NFU_2021			Chromosome	2022-03-10	JAJJIX01	16.0
+Theobroma_grandiflorum_ASM3601399v1	GCA_036013995.1	ASM3601399v1	Theobroma_grandiflorum					C1074			Chromosome	2024-01-24		10.0
+Rhododendron_vialii_ASM3025357v1	GCA_030253575.1	ASM3025357v1	Rhododendron_vialii					Sample_1			Chromosome	2023-06-12		13.0
+Salix_babylonica_Saba01F-Hap-a	GCA_040801835.1	Saba01F-Hap-a	Salix_babylonica					Saba01F	female		Chromosome	2024-07-22		38.0
+Dracaena_cambodiana_ASM3632110v2	GCA_036321105.2	ASM3632110v2	Dracaena_cambodiana				china	jpzlxs			Chromosome	2024-10-30	JAYEPQ01	20.0
+Artemisia_tridentata_subsp._tridentata_BSU_IDT2_0.1	GCA_021014915.2	BSU_IDT2_0.1	Artemisia_tridentata_subsp._tridentata					IDT2			Chromosome	2024-03-22		9.0
+Antiaris_toxicaria_ASM3523358v1	GCA_035233585.1	ASM3523358v1	Antiaris_toxicaria					JCLG002			Chromosome	2024-01-08		13.0
+Cinchona_calisaya_ASM4605596v1	GCA_046055965.1	ASM4605596v1	Cinchona_calisaya				Yunnan			Annotation_submitted_by_Hebei_University	Chromosome	2024-12-16	JBJUIK01	17.0
+Brachypodium_hybridum_ASM3687251v1	GCA_036872515.1	ASM3687251v1	Brachypodium_hybridum				IBd483				Chromosome	2024-02-26		15.0
+Brachypodium_stacei_ASM3687252v1	GCA_036872525.1	ASM3687252v1	Brachypodium_stacei				Bst99				Chromosome	2024-02-26		10.0
+Eutrema_japonicum_PCGL_EJ_1.0	GCA_041074935.1	PCGL_EJ_1.0	Eutrema_japonicum			Magic	Pyeongchang	CNU_PCGL_DJ_WASABI_2024			Chromosome	2024-08-06		14.0
+Avena_longiglumis_ASM3006302v1	GCA_030063025.1	ASM3006302v1	Avena_longiglumis					447			Chromosome	2023-05-22		7.0
+Coriaria_nepalensis_ASM2718624v1	GCA_027186245.1	ASM2718624v1	Coriaria_nepalensis					Cnep1			Chromosome	2022-12-21		20.0
+Saururus_chinensis_ASM3523562v1	GCA_035235625.1	ASM3523562v1	Saururus_chinensis					CL-2023b			Chromosome	2024-01-08		11.0
+Malus_ioensis_ASM4214005v1	GCA_042140055.1	ASM4214005v1	Malus_ioensis			PI590015					Chromosome	2024-09-23		17.0
+Swietenia_macrophylla_ASM3240190v1	GCA_032401905.1	ASM3240190v1	Swietenia_macrophylla					HCNGB_00002344			Chromosome	2023-10-05		28.0
+Cinnamomum_chago_ASM3804969v1	GCA_038049695.1	ASM3804969v1	Cinnamomum_chago					CC202301			Chromosome	2024-04-10		12.0
+Firmiana_kwangsiensis_FkHapA	GCA_042479365.1	FkHapA	Firmiana_kwangsiensis				Guangxi	RZ-2024			Chromosome	2024-10-03	JBHMQQ01	20.0
+Microcos_paniculata_ASM3066475v1	GCA_030664755.1	ASM3066475v1	Microcos_paniculata								Chromosome	2023-08-07		9.0
+Flueggea_virosa_ASM3878957v1	GCA_038789575.1	ASM3878957v1	Flueggea_virosa				yunnan	bfs			Chromosome	2024-04-30		13.0
+Chaenomeles_sinensis_ASM4498636v1	GCA_044986365.1	ASM4498636v1	Chaenomeles_sinensis					sampleA			Chromosome	2024-11-16		17.0
+Sherardia_arvensis_daSheArve1.1	GCA_948330725.1	daSheArve1.1	Sherardia_arvensis								Chromosome	2023-01-26		11.0
+Scutellaria_galericulata_daScuGale1.1	GCA_946896805.1	daScuGale1.1	Scutellaria_galericulata								Chromosome	2022-09-21		15.0
+Zoysia_sinica_CNU_Zsg_1.0	GCA_041753855.1	CNU_Zsg_1.0	Zoysia_sinica					DS-2024			Chromosome	2024-09-05	JBGRUJ01	20.0
+Vitis_x_doaniana_ASM3034515v1	GCA_030345155.1	ASM3034515v1	Vitis_x_doaniana			PI_588149					Chromosome	2023-06-26		19.0
+Corylus_americana_ASM3628790v1	GCA_036287905.1	ASM3628790v1	Corylus_americana			Rush					Chromosome	2024-01-30		11.0
+Gossypium_turneri_ASM804493v1	GCA_008044935.1	ASM804493v1	Gossypium_turneri					D10-2			Chromosome	2019-08-21		13.0
+Quercus_dentata_ASM2821601v1	GCA_028216015.1	ASM2821601v1	Quercus_dentata					Qdleaves-2020			Chromosome	2023-01-30		12.0
+Inga_laurina_drIngLaur1.1	GCA_963855925.1	drIngLaur1.1	Inga_laurina								Chromosome	2023-12-15		13.0
+Malus_coronaria_ASM4193737v1	GCA_041937375.1	ASM4193737v1	Malus_coronaria			PI590014					Chromosome	2024-09-16		17.0
